@@ -1,4 +1,3 @@
-# pakistan-ecommerce-performance-dashboard
 # Pakistan E-Commerce Performance Dashboard
 
 ## Project Overview
